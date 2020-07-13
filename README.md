@@ -3,8 +3,10 @@
 
 ## Rank 8th/13314 approach:
 #####  PS - Could have been 1st if i would have chosen my best cv/holdout submission
+One of the largest retail chains in the world wants to use their vast data source to build an efficient forecasting model to predict the sales for each SKU in its portfolio at its 76 different stores using historical sales data for the past 3 years on a week-on-week basis. Sales and promotional information is also available for each week - product and store wise. 
 ### The Easiest and Smallest code that could get u good score!(Cause: Stratified Kfold OOF Predictions)
 [click](https://github.com/saikrithik/JanataHack-Demand-Forecasting/blob/master/LGBM.ipynb)
+
 
 <img src="2.png"
      alt="Markdown Monster icon"
